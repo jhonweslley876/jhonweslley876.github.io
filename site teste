@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <style>
+
+      body {
+
+        background-color: rgb(100, 100, 100)
+      }
+
+      .titulo {
+
+        color: #FF69B4
+
+      }
+
+      #titulo2 {
+
+        color: #FF69B4
+
+      }
+
+      .lista1 {
+
+        background-color: rgb(255, 255, 0)
+
+      }
+
+      .lista2 {
+
+        background-color: rgb(255, 0, 0)
+
+      }
+
+      #titulo3 {
+
+        color: #FF69B4
+
+      }
+
+      .listas3 {
+
+        background-color: rgb(255, 0, 255)
+
+      }
+
+      .lista4 {
+
+        background-color: rgb(255, 155, 100)
+
+      }
+
+      #titulo4 {
+
+        color: #FF69B4
+
+      }
+
+
+    </style>
+    <h1 class="titulo">titulo</h1>
+    <ol class="lista1">
+      <li>testando</li>
+      <li>programando</li>
+      <li>selecionando as cores de fundo</li>
+    </ol>
+    <h2 id="titulo2">titulo 2</h2>
+    <ul class="lista2">
+      <li>programando 2</il>
+      <li>listas</li>
+      <li>testando novamente</li>
+    </ul>
+
+    <h3 id="titulo3">titulo 3</h3>
+    
+    <ol class="listas3">
+      <li>aqui ficam as listas com números</li>
+      <li>varias listas</li>
+      <li>independente da quantidade</li>
+    </ol>
+
+    <h4 id="titulo4">titulo 4</h4>
+
+    <ol class="lista4">
+      <li>programando</li>
+      <li> site sem graçaKKKKK</li>
+      <li>criando sites</li>
+    </ol>
+
+    <h5>titulo 5</h5>
+
+  </body>
+</html>
